@@ -1,0 +1,21 @@
+<html>
+	<head>
+	</head>
+	<body>
+		<table>
+		<tbody>
+			<tr height="90">
+				<th width="2000" style="background-color:#FF5B00"> </th>
+				<th width="175" style="color: white; background-color:#FF5B00"> Quem somos </th>
+				<th width="175" style="color: white; background-color:#FF5B00"> Como funciona </th>
+				<th width="175" style="color: white; background-color:#FF5B00"> <a href=“PaginaLogin.html”> Login </a> </th>
+			</tr>
+		</tbody>
+		</table>
+	<figure>
+		<img src="RespondeAi.png" alt="Logo">
+	</figure>
+
+	</body>
+
+</html>
